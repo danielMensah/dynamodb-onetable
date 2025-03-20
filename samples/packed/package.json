@@ -11,7 +11,7 @@
     "dependencies": {
         "@aws-sdk/client-dynamodb": "^3.17.0",
         "@aws-sdk/util-dynamodb": "^3.17.0",
-        "core-js": "^3.13.0",
+        "core-js": "^3.40.0",
         "dynamodb-onetable": "^2"
     },
     "devDependencies": {
